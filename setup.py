@@ -6,9 +6,9 @@ with open("README.md", "r") as fh:
 setup(
     name="invokust",
     version="1.77",
-    author="Max Williams",
-    author_email="futuresharks@gmail.com",
-    description="A small wrapper for locust to allow running load tests from within Python or on AWS Lambda",
+    author="dasads",
+    author_email="dasdas",
+    description="A small wrappdsadasdsallow running load tests from within Python or on AWS Lambda",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/FutureSharks/invokust",
