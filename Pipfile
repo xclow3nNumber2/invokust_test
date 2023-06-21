@@ -1,0 +1,19 @@
+[[source]]
+name = "pyprivate"
+url = "https://github.com/xclow3nNumber2/pyrepo"
+verify_ssl = true
+
+[dev-packages]
+black = "*"
+pre-commit = "*"
+pytest = "*"
+pytest-cov = "*"
+
+[packages]
+"invokust" = {editable = true, path = "."}
+
+[requires]
+python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true
